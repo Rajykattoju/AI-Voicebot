@@ -45,6 +45,8 @@ If the message 'facebook login failed........attempt trying.....etc etc' apprear
     Password: ruuhvoicebot															
 
 # NOTE: Please don't mind Ruuh's over sarcastic replies. Improvements are being made to make it 100% user-friendly. Thank you !
+
+Check on this blog to know more about MS Ruuh : https://medium.com/@rajyalakshmikattoju/ruuh-the-best-imaginary-invention-bf65cbb86a50 
 	
 Developers:
 Iftekharuddin Mohammed and Rajyalakshmi Kattoju
