@@ -47,7 +47,13 @@ If the message 'facebook login failed........attempt trying.....etc etc' apprear
 # NOTE: Please don't mind Ruuh's over sarcastic replies. Improvements are being made to make it 100% user-friendly. Thank you !
 
 Check on this blog to know more about MS Ruuh : https://medium.com/@rajyalakshmikattoju/ruuh-the-best-imaginary-invention-bf65cbb86a50 
-	
+
+## Demo
+
+https://github.com/Rajykattoju/AI-Voicebot/assets/34054117/ecb48f17-a11c-4331-a590-558b356f191b
+
+https://github.com/Rajykattoju/AI-Voicebot/assets/34054117/31fb17c9-3922-40e3-94e8-09e0c4453f88
+
 Developers:
 Iftekharuddin Mohammed and Rajyalakshmi Kattoju
 
